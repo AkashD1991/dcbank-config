@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to DC Bank accounts related prod APIs"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
-    email: "aishwarya@dcbank.com"
+    email: "{cipher}bdedf3bead70a525e1c6ab949799401c052910e2ad1a4ff4887eb07fe4ea4e66a3685377e1ba2a1149617463581d7721"
   onCallSupport:
     -(91)19911992-1992,
     -(91)19921991-1992
