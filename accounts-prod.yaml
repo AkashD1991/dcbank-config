@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to DC Bank accounts related production APIs"
+  message: "Welcome to DC Bank accounts related prod APIs"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}bdedf3bead70a525e1c6ab949799401c052910e2ad1a4ff4887eb07fe4ea4e66a3685377e1ba2a1149617463581d7721"
