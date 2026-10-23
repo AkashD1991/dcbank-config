@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to DC Bank cards related docker APIs"
+  message: "Welcome to DC Bank cards related local APIs"
   contactDetails:
     name: "John sinha- Developer"
     email: "johns@dcbank.com"
